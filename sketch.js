@@ -82,7 +82,7 @@ function draw() {
     crosshair.visible=true
     click.visible=false
     startscreen.visible=false
-    ground.velocityX=-3
+    ground.velocityX=-7
     gameover.visible=false
     crosshair.x=mouseX
     crosshair.y=mouseY
